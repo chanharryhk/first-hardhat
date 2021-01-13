@@ -32,7 +32,7 @@ contract Token {
     }
 
     /**
-     * A function to transfer tokens.
+     * A function to transfer tokens..
      *
      * The `external` modifier makes a function *only* callable from outside
      * the contract.
